@@ -23,4 +23,4 @@ function sayHiToGrandma(string) {
     return "YES INDEED!"
   }
   
-  
+  if (string === "I love you Grandma")
